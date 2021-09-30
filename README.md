@@ -12,6 +12,6 @@ SaaS version: [https://www.onlyoffice.com/cloud-office.aspx](https://www.onlyoff
 
 ## User feedback and support
 
-If you have questions, ask them on our [official forum](https://dev.onlyoffice.org/).
+If you have questions, ask them on our [official forum](https://forum.onlyoffice.com/).
 
 Development questions can also be asked on [Stack Overflow](http://stackoverflow.com/questions/tagged/onlyoffice).
